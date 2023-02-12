@@ -1,9 +1,7 @@
 # Reach the Water
 ## Global Game Jam Valdivia 2023
 
-*Exe:* ReachTheWaterExe.zip
-
-*SourceCode:* ReachTheWaterSC.zip
+[Check the game here!](https://globalgamejam.org/2023/games/reach-water-3)
 
 ## Credits to:
 1. Maximiliano Carrasco (Libro de bocetos) -> Main Artist.
