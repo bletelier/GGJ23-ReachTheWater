@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: b18f1c08f3c9aee4db05b9f1ec8ed0d8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ca\xF1\xF3n Ra\xEDz_2"
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 126
+        width: 384
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2418ae47f76e6940b665ed2996232c5
+      internalID: 2144123325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1\xF3n Ra\xEDz_3"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 102
+        width: 393
+        height: 366
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4bd6893933c934e87347c05ea91453
+      internalID: 1054690792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1\xF3n Ra\xEDz_4"
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 89
+        width: 385
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53dd5259f6ee2e4b85ff687f32c5358
+      internalID: -1966358614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1\xF3n Ra\xEDz_5"
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 74
+        width: 382
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4205dd4761bcf004ebd8a54eda3a5347
+      internalID: 921026489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ca\xF1\xF3n Ra\xEDz_6"
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 106
+        width: 391
+        height: 345
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565732eebfc80014992fb44f7ae21fa9
+      internalID: -1443406424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 8f1b5def339019b44a84c27ab99f72e8, type: 3}
+      name: _Neon1
+    - texture: {fileID: 2800000, guid: 2e75cf6cf1b7c7d43bea9475469aae09, type: 3}
+      name: _Neon2
+    - texture: {fileID: 2800000, guid: a6794838b3c2001469dfa00a0f2a33c1, type: 3}
+      name: _Body1
+    - texture: {fileID: 2800000, guid: 0f381aa3a7009574cb751f85a2c48a9d, type: 3}
+      name: _Body2
+    - texture: {fileID: 2800000, guid: dd301648905b0f842ad9480b35098505, type: 3}
+      name: _Alpha
+    nameFileIdTable:
+      "Ca\xF1\xF3n Ra\xEDz_6": -1443406424
+      "Ca\xF1\xF3n Ra\xEDz_13": 730904855
+      "Ca\xF1\xF3n Ra\xEDz_18": 1257768890
+      "Ca\xF1\xF3n Ra\xEDz_17": -201785001
+      "Ca\xF1\xF3n Ra\xEDz_16": -171952636
+      "Ca\xF1\xF3n Ra\xEDz_12": -97197815
+      "Ca\xF1\xF3n Ra\xEDz_1": 1342033410
+      "Ca\xF1\xF3n Ra\xEDz_0": -34318051
+      "Ca\xF1\xF3n Ra\xEDz_7": -1304944838
+      "Ca\xF1\xF3n Ra\xEDz_11": -1205897525
+      "Ca\xF1\xF3n Ra\xEDz_5": 921026489
+      "Ca\xF1\xF3n Ra\xEDz_8": -1077554256
+      "Ca\xF1\xF3n Ra\xEDz_3": 1054690792
+      "Ca\xF1\xF3n Ra\xEDz_10": -639445107
+      "Ca\xF1\xF3n Ra\xEDz_14": -1845512997
+      "Ca\xF1\xF3n Ra\xEDz_2": 2144123325
+      "Ca\xF1\xF3n Ra\xEDz_9": 53976432
+      "Ca\xF1\xF3n Ra\xEDz_15": -204748954
+      "Ca\xF1\xF3n Ra\xEDz_4": -1966358614
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
